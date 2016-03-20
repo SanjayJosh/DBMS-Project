@@ -1,0 +1,31 @@
+#myCarousel> div> div >img
+{
+	
+	min-width:1300px;
+
+	height:570px;
+}
+#myCarousel
+{
+	marginTop:-10px !important;
+}
+.cnf
+{
+	
+	
+}
+.placed
+{
+	background-color:transparent;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	font-weight: bold;
+    text-shadow: 1px 1px 0 #FFF, -1px -1px 0 #FFF, 1px -1px 0 #FFF,
+            -1px 1px 0 #FFF, 3px 3px 5px #FFF;
+	opacity:0.9;
+	width:350px;
+	height:100px;
+	position: absolute;
+	top:30%;
+	left:15%;
+}
