@@ -38,6 +38,7 @@ $("document").ready(function(){
 		}
 	}
 	);
+
 	/*
 	$(window).reload(function()
 	 {
@@ -45,6 +46,7 @@ $("document").ready(function(){
 	 	$(body).css("height","100%");
 	 }
 	 );
+
 	 $('.carousel').carousel({
   		interval: 100
 	});
